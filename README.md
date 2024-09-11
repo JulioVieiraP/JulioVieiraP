@@ -9,8 +9,11 @@ Desde a primeira vez que escrevi uma linha de código, fiquei fascinado pelo pod
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioVieiraP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioVieiraP&repo=efood&theme=dark)](https://github.com/JulioVieiraP/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioVieiraP&repo=Make-your-burger&theme=dark)](https://github.com/JulioVieiraP/Make-your-burger)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioVieiraP&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioVieiraP&repo=eplay&theme=dark)](https://github.com/JulioVieiraP/eplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioVieiraP&repo=API_Make_your_burger&theme=dark)](https://github.com/JulioVieiraP/API_Make_your_burger)
 
 
 ### Linguagens utilizadas
