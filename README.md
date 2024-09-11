@@ -1,6 +1,10 @@
-### Olá 👋
+<h1 align="center">
+  💻<br>Portfólio - Julio Vieira
+</h1>
 
-###### Sobre o mim
+<h1 align="center">
+  <br>Sobre o mim
+</h1>
 Desde a primeira vez que escrevi uma linha de código, fiquei fascinado pelo poder de criar algo do zero. Meu nome é Julio, e essa curiosidade me levou a me tornar um desenvolvedor front-end. Nos últimos anos, mergulhei em projetos desafiadores, utilizando tecnologias como React.js, Next.js e Vue.js para transformar ideias em realidade. Agora, estou em busca da próxima grande oportunidade onde possa aplicar o que aprendi e continuar evoluindo como profissional.
 
 
