@@ -21,7 +21,7 @@ Desde a primeira vez que escrevi uma linha de código, fiquei fascinado pelo pod
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioVieiraP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioVieiraP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
