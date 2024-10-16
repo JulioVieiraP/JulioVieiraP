@@ -126,6 +126,10 @@ Desde a primeira vez que escrevi uma linha de código, fiquei fascinado pelo pod
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>
       <br>Python
     </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+      <br>Docker
+    </td>
   </tr>
 </table>
 
